@@ -7,5 +7,6 @@ public class Demo4Test{
 public void demo() {
 	System.out.println("Welcome To Maven");
 	System.out.println("User1 -----> Created");
+	System.out.println("User2 ---> Deleted");
 }
 }
